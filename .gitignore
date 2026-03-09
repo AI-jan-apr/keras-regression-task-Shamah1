@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+tf-env/
+*.pyc
+kc_house_data.csv
